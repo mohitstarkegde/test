@@ -1,6 +1,3 @@
 Hello this is test file for code history check!
 
 hello this is test file for version 2 control
-
-
-This is Probabilty 1 file for test 
